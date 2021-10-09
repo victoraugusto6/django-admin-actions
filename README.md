@@ -1,2 +1,2 @@
 # django-admin-actions
-How to use Django Actions in Django Admin
+How to use Actions in Django Admin
